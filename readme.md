@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-_[Live Demo]()_
+_[Live Demo](https://emre613461.github.io/websiteExercises01/)_
 
 ## Used Technologies
 
